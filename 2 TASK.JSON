@@ -1,0 +1,12 @@
+
+GET /api/v1/partner-stores/ashan-123
+
+// ANSWER
+{
+  "id": "ashan-123",
+  "name": "Ашан Сити",
+  "address": "ш. Дмитровское, 163А, Москва",
+  "workingHours": "08:00–23:00",
+  "isOpenNow": true,
+  "externalUrl": "https://www.auchan.ru/partner/petrushka"
+}
